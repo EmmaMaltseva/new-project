@@ -1,1 +1,5 @@
-Hello Emma!
+Hello, Emma!
+Sweets
+print
+orange
+
